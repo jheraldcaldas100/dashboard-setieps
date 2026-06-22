@@ -1,0 +1,43 @@
+﻿CODIGOCOBERTURA,COBERTURA,ANIO,COMPONENTE_GASTO,MONTO_COMPONENTE,PORC_PARTICIPACION,POSICION_EN_COBERTURA
+0,No corresponde,2026,Farmacia,3390.65,33.3,1
+0,No corresponde,2026,Honorarios Médicos,3196.22,31.39,2
+0,No corresponde,2026,Servicios Clínicos,2788.53,27.39,3
+0,No corresponde,2026,Exámenes de Laboratorio,742.51,7.29,4
+0,No corresponde,2026,Exámenes de Imagen,63.97,0.63,5
+0,No corresponde,2026,Otros Gastos,0.0,0.0,6
+1,Extra hospitalario - Atenciones de salud recuperativas a domicilio o servicio traslado pacientes,2026,Farmacia,1210515.42,63.46,1
+1,Extra hospitalario - Atenciones de salud recuperativas a domicilio o servicio traslado pacientes,2026,Otros Gastos,336186.0,17.62,2
+1,Extra hospitalario - Atenciones de salud recuperativas a domicilio o servicio traslado pacientes,2026,Honorarios Médicos,310031.51,16.25,3
+1,Extra hospitalario - Atenciones de salud recuperativas a domicilio o servicio traslado pacientes,2026,Servicios Clínicos,27383.0,1.44,4
+1,Extra hospitalario - Atenciones de salud recuperativas a domicilio o servicio traslado pacientes,2026,Exámenes de Laboratorio,23068.02,1.21,5
+1,Extra hospitalario - Atenciones de salud recuperativas a domicilio o servicio traslado pacientes,2026,Exámenes de Imagen,360.0,0.02,6
+2,Médico en planta - Atención en centro laboral independiente,2026,Farmacia,10647.33,92.71,1
+2,Médico en planta - Atención en centro laboral independiente,2026,Exámenes de Imagen,437.32,3.81,2
+2,Médico en planta - Atención en centro laboral independiente,2026,Servicios Clínicos,228.78,1.99,3
+2,Médico en planta - Atención en centro laboral independiente,2026,Honorarios Médicos,171.25,1.49,4
+2,Médico en planta - Atención en centro laboral independiente,2026,Exámenes de Laboratorio,0.0,0.0,5
+2,Médico en planta - Atención en centro laboral independiente,2026,Otros Gastos,0.0,0.0,6
+4,Ambulatorio - Atención sin internamiento mayor a 24 horas,2026,Farmacia,15848915.93,56.29,1
+4,Ambulatorio - Atención sin internamiento mayor a 24 horas,2026,Honorarios Médicos,4263109.4,15.14,2
+4,Ambulatorio - Atención sin internamiento mayor a 24 horas,2026,Exámenes de Imagen,3623667.74,12.87,3
+4,Ambulatorio - Atención sin internamiento mayor a 24 horas,2026,Exámenes de Laboratorio,1913756.48,6.8,4
+4,Ambulatorio - Atención sin internamiento mayor a 24 horas,2026,Otros Gastos,1641827.36,5.83,5
+4,Ambulatorio - Atención sin internamiento mayor a 24 horas,2026,Servicios Clínicos,862882.64,3.06,6
+5,Hospitalaria - Internamiento mayor a 24 horas,2026,Farmacia,2522902.26,46.53,1
+5,Hospitalaria - Internamiento mayor a 24 horas,2026,Servicios Clínicos,1089807.09,20.1,2
+5,Hospitalaria - Internamiento mayor a 24 horas,2026,Honorarios Médicos,773758.04,14.27,3
+5,Hospitalaria - Internamiento mayor a 24 horas,2026,Otros Gastos,744015.88,13.72,4
+5,Hospitalaria - Internamiento mayor a 24 horas,2026,Exámenes de Laboratorio,191913.82,3.54,5
+5,Hospitalaria - Internamiento mayor a 24 horas,2026,Exámenes de Imagen,99435.06,1.83,6
+6,Emergencia - Atención en servicio de emergencia de establecimiento de salud,2026,Farmacia,1050732.16,30.24,1
+6,Emergencia - Atención en servicio de emergencia de establecimiento de salud,2026,Exámenes de Imagen,745650.57,21.46,2
+6,Emergencia - Atención en servicio de emergencia de establecimiento de salud,2026,Honorarios Médicos,562256.31,16.18,3
+6,Emergencia - Atención en servicio de emergencia de establecimiento de salud,2026,Servicios Clínicos,440076.75,12.67,4
+6,Emergencia - Atención en servicio de emergencia de establecimiento de salud,2026,Otros Gastos,349671.53,10.06,5
+6,Emergencia - Atención en servicio de emergencia de establecimiento de salud,2026,Exámenes de Laboratorio,325773.08,9.38,6
+9,Otros - Cualquier otra cobertura no listada,2026,Honorarios Médicos,5881.87,65.76,1
+9,Otros - Cualquier otra cobertura no listada,2026,Farmacia,1118.52,12.51,2
+9,Otros - Cualquier otra cobertura no listada,2026,Exámenes de Laboratorio,806.08,9.01,3
+9,Otros - Cualquier otra cobertura no listada,2026,Otros Gastos,573.42,6.41,4
+9,Otros - Cualquier otra cobertura no listada,2026,Exámenes de Imagen,509.12,5.69,5
+9,Otros - Cualquier otra cobertura no listada,2026,Servicios Clínicos,55.44,0.62,6
